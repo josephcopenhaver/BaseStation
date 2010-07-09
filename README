@@ -1,0 +1,24 @@
+All of my other Perl work is owned by Genband and I cannot show it.
+
+This is the single threaded server prototype for our senior design project
+and it was constructed in the first week when our group received the
+final specifications by me alone.
+I was bored so I knocked it out.
+
+
+BaseStation.pl V1.2b
+
+    USAGE:
+        perl BaseStation.pl <SENSOR_PORT> <SUBSCRIBER_PORT> <LOOPBACK_PORT>
+
+    EXAMPLE(&defaults):
+        perl BaseStation.pl 1429 1427 1425
+
+    Envoked:
+        perl BaseStation.pl
+
+		
+You can read more about my senior design project on our public google groups page that is still up.
+(We kept a private page for group communications.)
+http://groups.google.com/group/UTD_WLAN
+Let the record show that I did way more than what is documented on our activities document!
